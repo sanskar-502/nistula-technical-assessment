@@ -43,7 +43,7 @@ This service acts as the central brain for automated guest messaging. It ingests
 ### 1. Installation
 Clone the repository and create an isolated virtual environment:
 ```bash
-git clone <repo-url>
+git clone https://github.com/sanskar-502/nistula-technical-assessment.git
 cd nistula
 python -m venv venv
 
